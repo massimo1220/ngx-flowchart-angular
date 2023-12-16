@@ -1,0 +1,1 @@
+{"version":3,"file":"default-node.component.d.ts","sources":["default-node.component.d.ts"],"names":[],"mappings":"AAAA;;AACA;AACA;;;AACA","sourcesContent":["import { FcNodeComponent } from './node.component';\nexport declare class DefaultFcNodeComponent extends FcNodeComponent {\n    constructor();\n}\n"]}

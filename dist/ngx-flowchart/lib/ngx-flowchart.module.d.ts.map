@@ -1,0 +1,1 @@
+{"version":3,"file":"ngx-flowchart.module.d.ts","sources":["ngx-flowchart.module.d.ts"],"names":[],"mappings":";;;;;;;AAAA;;;AACA","sourcesContent":["export declare class NgxFlowchartModule {\n}\n"]}
